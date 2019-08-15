@@ -1,6 +1,6 @@
 # rpi3-hotspot
 
-Turns a Raspberry Pi 3 into a configurable access point.
+Turns a Raspberry Pi 3 into a configurable access point with network bridge to UMTS Stick at eth1.
 
 ## How this works
 
